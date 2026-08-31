@@ -3,6 +3,8 @@
 Cache Proxy is a simple caching proxy server implemented in C++. 
 It serves as a basic solution for caching HTTP requests and responses using a card in memory to store the cache.
 
+
+
 ## Limitations
 
 ### Memory Usage:
